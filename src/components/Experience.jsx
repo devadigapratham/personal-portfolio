@@ -57,7 +57,7 @@ const Experience = () => {
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline mb-5 ">
-            Experience
+            Experience :
           </p>
           <p className="py-6">These are few of the languanges and tools that I use. To know more, please do check my github profile 😉🤌</p>
         </div>
